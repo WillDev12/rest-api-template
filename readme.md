@@ -2,8 +2,12 @@
 
 Provided is a template for rest API's
 
-``` git
-git -clone https://github.com/WillDev12/rest-api-template
+``` javascript
+// git -clone https://github.com/WillDev12/rest-api-template //
+
+// running
+npm run dev // opens with nodemon
+npm run execute // opens with node 
 ```
 
 # Like content like this?
